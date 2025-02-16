@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Door
+  m_Shader: {fileID: 4800000, guid: b197bba5416d09f468d980286ba78c31, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 228504434f2666e4aad4e6763df31b3f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortTex:
+        m_Texture: {fileID: 2800000, guid: d6dba459de7e13748958d5551b1bdf0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FrostTex:
+        m_Texture: {fileID: 2800000, guid: 1d353c74d0655614ab573c20f77f7d40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlassTex:
+        m_Texture: {fileID: 2800000, guid: 1d353c74d0655614ab573c20f77f7d40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1d353c74d0655614ab573c20f77f7d40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 4dfe61fcd5023104ab07ec7497d00ad6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BorderSize: 0.014
+    - _BorderTransparency: 0.23
+    - _BumpInt: 32
+    - _ColorInt: 0.41
+    - _DistortInt: 0.47
+    - _FrostInt: 0.51
+    - _NoiseInt: 0.26
+    - _Transparency: 1
+    m_Colors:
+    - _BorderColor: {r: 8.47419, g: 2.5238745, b: 0.22183734, a: 1}
+    - _GlassColor: {r: 0.9056604, g: 0.77177846, b: 0.57244563, a: 1}
+  m_BuildTextureStacks: []
