@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3397907b84987454dbbf847cd1fcae1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - godRayShader: {instanceID: 0}
+  - lightTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
